@@ -1,0 +1,17 @@
+commit 0b7d4cc2692968a3dfc10e7baff6878ac68a6fd9
+Author: Rafa <rafael.quintanilla2010@gmail.com>
+Date:   Fri Sep 8 20:04:03 2023 +0000
+
+    new commit with error fixed
+
+commit 87d9c390ca643a033b28496ee45d0dab2c23f536
+Author: Rafa <rafael.quintanilla2010@gmail.com>
+Date:   Fri Sep 8 19:58:22 2023 +0000
+
+    Modified README file to notate the prject info and describe that the repo was created based on another one
+
+commit da48f45f43fffffdcab2f1dc8c39d8d00bea8159
+Author: Rafa <rafael.quintanilla2010@gmail.com>
+Date:   Fri Sep 8 19:46:31 2023 +0000
+
+    First commit: adding web files and Docker image
